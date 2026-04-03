@@ -35,7 +35,7 @@ Get up and running in 4 simple steps.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/binance-futures-trading-bot.git
+git clone https://github.com/Prathameshsci369/Binance-Futures-Trading-Bot-Testnet-.git
 cd binance-futures-trading-bot
 ```
 
